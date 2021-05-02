@@ -21,5 +21,12 @@ font-size: 56px;
 border: 2px dotted skyblue;
 border-radius: 5px;}
 
+p {background-color: white;
+  color: black;
+  font-family:"Lobster";
+  font-size: 40px;
+  border: 2px dotted white;
+  border-radius: 5px;}
+
 nav {float: none;}
 nav ul li {list-style-type: none;}
