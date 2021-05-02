@@ -4,7 +4,7 @@ h1 {background-color: black;
 color: white;
 font-family: "Lobster";
 font-size: 64px;
-border: 2px dotted mustardyellow;
+border: 2px dotted skyblue;
 border-radius: 5px;}
 
 h2 {background-color: black;
@@ -18,7 +18,7 @@ h3 {background-color: black;
 color: white;
 font-family: "Lobster";
 font-size: 56px;
-border: 2px dotted mustardyellow;
+border: 2px dotted skyblue;
 border-radius: 5px;}
 
 nav {float: none;}
