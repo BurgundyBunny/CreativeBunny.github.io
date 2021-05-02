@@ -1,13 +1,22 @@
 body {background-color: magenta;}
 
 h1 {background-color: red;
-color: white;}
+color: white;
+font-family: "Lobster";
+font-size: 64px;
+class="font-effect-fire";}
 
 h2 {background-color: orange;
-color: navy;}
+color: navy;
+font-family: "Lobster";
+font-size: 64px;
+class="font-effect-outline";}
 
 h3 {background-color: red;
-color: white;}
+color: white;
+font-family: "Lobster";
+font-size: 64px;
+class="font-effect-emboss"}
 
 nav {float: none;}
 nav ul li {list-style-type: none;}
