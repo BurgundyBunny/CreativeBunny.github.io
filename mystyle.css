@@ -1,24 +1,24 @@
-body {background-color: magenta;}
+body {background-color: navy;}
 
-h1 {background-color: navy;
-color: black;
+h1 {background-color: black;
+color: white;
 font-family: "Lobster";
 font-size: 64px;
-border: 2px dotted black;
+border: 2px dotted mustardyellow;
 border-radius: 5px;}
 
 h2 {background-color: black;
-color: navy;
-font-family: "Lobster";
-font-size: 60px;
-border: 2px dotted navy;
-border-radius: 5px;}
-
-h3 {background-color: navy;
-color: black;
+color: white;
 font-family: "Lobster";
 font-size: 64px;
-border: 2px dotted black;
+border: 2px dotted skyblue;
+border-radius: 5px;}
+
+h3 {background-color: black;
+color: white;
+font-family: "Lobster";
+font-size: 56px;
+border: 2px dotted mustardyellow;
 border-radius: 5px;}
 
 nav {float: none;}
